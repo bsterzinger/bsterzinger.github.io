@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blake&apos;s Podcast</title> <link>https://bsterzinger.github.io/</link>
+    <language>en-us</language>
+    <copyright>None claimed</copyright>
+    <itunes:author>The Sunset Explorers</itunes:author>
+    <description>Blake&apos;s Personal Podcast</description>
+    <itunes:type>serial</itunes:type>
+    <itunes:owner>
+      <itunes:name>Sunset Explorers</itunes:name>
+      <itunes:email>blasterz+poscast@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image
+    href="https://applehosted.podcasts.apple.com/hiking_treks/artwork.png"
+    />
+    <itunes:category text="Fiction">
+    <itunes:category text="Radio SHow"/> </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:title>Hiking Treks Trailer</itunes:title>
+      <description>
+        <content:encoded>
+          <![CDATA[
+            Liebowitz 01.
+          ]]>
+        </content:encoded>
+      </description>
+      <enclosure
+        length="498537"
+        type="audio/mpeg"
+        url="https://www.oldradioworld.com/media/Liebowitz01.mp3"
+      />
+      <guid>aae20190418</guid>
+      <pubDate>Tue, 8 Jan 2019 01:15:00 GMT</pubDate>
+      <itunes:duration>1079</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:title>Hiking Treks Trailer</itunes:title>
+      <description>
+        <content:encoded>
+          <![CDATA[
+            Liebowitz 02.
+          ]]>
+        </content:encoded>
+      </description>
+      <enclosure
+        length="498537"
+        type="audio/mpeg"
+        url="https://www.oldradioworld.com/media/Liebowitz02.mp3"
+      />
+      <guid>aae20190418</guid>
+      <pubDate>Tue, 8 Jan 2019 01:15:00 GMT</pubDate>
+      <itunes:duration>1079</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:title>Hiking Treks Trailer</itunes:title>
+      <description>
+        <content:encoded>
+          <![CDATA[
+            Liebowitz 03.
+          ]]>
+        </content:encoded>
+      </description>
+      <enclosure
+        length="498537"
+        type="audio/mpeg"
+        url="https://www.oldradioworld.com/media/Liebowitz03.mp3"
+      />
+      <guid>aae20190418</guid>
+      <pubDate>Tue, 8 Jan 2019 01:15:00 GMT</pubDate>
+      <itunes:duration>1079</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:title>Hiking Treks Trailer</itunes:title>
+      <description>
+        <content:encoded>
+          <![CDATA[
+            Liebowitz 04.
+          ]]>
+        </content:encoded>
+      </description>
+      <enclosure
+        length="498537"
+        type="audio/mpeg"
+        url="https://www.oldradioworld.com/media/Liebowitz04.mp3"
+      />
+      <guid>aae20190418</guid>
+      <pubDate>Tue, 8 Jan 2019 01:15:00 GMT</pubDate>
+      <itunes:duration>1079</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:title>Hiking Treks Trailer</itunes:title>
+      <description>
+        <content:encoded>
+          <![CDATA[
+            Liebowitz 05.
+          ]]>
+        </content:encoded>
+      </description>
+      <enclosure
+        length="498537"
+        type="audio/mpeg"
+        url="https://www.oldradioworld.com/media/Liebowitz05.mp3"
+      />
+      <guid>aae20190418</guid>
+      <pubDate>Tue, 8 Jan 2019 01:15:00 GMT</pubDate>
+      <itunes:duration>1079</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:title>Hiking Treks Trailer</itunes:title>
+      <description>
+        <content:encoded>
+          <![CDATA[
+            Liebowitz 06.
+          ]]>
+        </content:encoded>
+      </description>
+      <enclosure
+        length="498537"
+        type="audio/mpeg"
+        url="https://www.oldradioworld.com/media/Liebowitz06.mp3"
+      />
+      <guid>aae20190418</guid>
+      <pubDate>Tue, 8 Jan 2019 01:15:00 GMT</pubDate>
+      <itunes:duration>1079</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:title>Hiking Treks Trailer</itunes:title>
+      <description>
+        <content:encoded>
+          <![CDATA[
+            Liebowitz 07.
+          ]]>
+        </content:encoded>
+      </description>
+      <enclosure
+        length="498537"
+        type="audio/mpeg"
+        url="https://www.oldradioworld.com/media/Liebowitz07.mp3"
+      />
+      <guid>aae20190418</guid>
+      <pubDate>Tue, 8 Jan 2019 01:15:00 GMT</pubDate>
+      <itunes:duration>1079</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:title>Hiking Treks Trailer</itunes:title>
+      <description>
+        <content:encoded>
+          <![CDATA[
+            Liebowitz 08.
+          ]]>
+        </content:encoded>
+      </description>
+      <enclosure
+        length="498537"
+        type="audio/mpeg"
+        url="https://www.oldradioworld.com/media/Liebowitz08.mp3"
+      />
+      <guid>aae20190418</guid>
+      <pubDate>Tue, 8 Jan 2019 01:15:00 GMT</pubDate>
+      <itunes:duration>1079</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:title>Hiking Treks Trailer</itunes:title>
+      <description>
+        <content:encoded>
+          <![CDATA[
+            Liebowitz 09.
+          ]]>
+        </content:encoded>
+      </description>
+      <enclosure
+        length="498537"
+        type="audio/mpeg"
+        url="https://www.oldradioworld.com/media/Liebowitz09.mp3"
+      />
+      <guid>aae20190418</guid>
+      <pubDate>Tue, 8 Jan 2019 01:15:00 GMT</pubDate>
+      <itunes:duration>1079</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:title>Hiking Treks Trailer</itunes:title>
+      <description>
+        <content:encoded>
+          <![CDATA[
+            Liebowitz 10.
+          ]]>
+        </content:encoded>
+      </description>
+      <enclosure
+        length="498537"
+        type="audio/mpeg"
+        url="https://www.oldradioworld.com/media/Liebowitz10.mp3"
+      />
+      <guid>aae20190418</guid>
+      <pubDate>Tue, 8 Jan 2019 01:15:00 GMT</pubDate>
+      <itunes:duration>1079</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:title>Hiking Treks Trailer</itunes:title>
+      <description>
+        <content:encoded>
+          <![CDATA[
+            Liebowitz 11.
+          ]]>
+        </content:encoded>
+      </description>
+      <enclosure
+        length="498537"
+        type="audio/mpeg"
+        url="https://www.oldradioworld.com/media/Liebowitz11.mp3"
+      />
+      <guid>aae20190418</guid>
+      <pubDate>Tue, 8 Jan 2019 01:15:00 GMT</pubDate>
+      <itunes:duration>1079</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:title>Hiking Treks Trailer</itunes:title>
+      <description>
+        <content:encoded>
+          <![CDATA[
+            Liebowitz 12.
+          ]]>
+        </content:encoded>
+      </description>
+      <enclosure
+        length="498537"
+        type="audio/mpeg"
+        url="https://www.oldradioworld.com/media/Liebowitz12.mp3"
+      />
+      <guid>aae20190418</guid>
+      <pubDate>Tue, 8 Jan 2019 01:15:00 GMT</pubDate>
+      <itunes:duration>1079</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:title>Hiking Treks Trailer</itunes:title>
+      <description>
+        <content:encoded>
+          <![CDATA[
+            Liebowitz 13.
+          ]]>
+        </content:encoded>
+      </description>
+      <enclosure
+        length="498537"
+        type="audio/mpeg"
+        url="https://www.oldradioworld.com/media/Liebowitz13.mp3"
+      />
+      <guid>aae20190418</guid>
+      <pubDate>Tue, 8 Jan 2019 01:15:00 GMT</pubDate>
+      <itunes:duration>1079</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:title>Hiking Treks Trailer</itunes:title>
+      <description>
+        <content:encoded>
+          <![CDATA[
+            Liebowitz 14.
+          ]]>
+        </content:encoded>
+      </description>
+      <enclosure
+        length="498537"
+        type="audio/mpeg"
+        url="https://www.oldradioworld.com/media/Liebowitz14.mp3"
+      />
+      <guid>aae20190418</guid>
+      <pubDate>Tue, 8 Jan 2019 01:15:00 GMT</pubDate>
+      <itunes:duration>1079</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:title>Hiking Treks Trailer</itunes:title>
+      <description>
+        <content:encoded>
+          <![CDATA[
+            Liebowitz 15.
+          ]]>
+        </content:encoded>
+      </description>
+      <enclosure
+        length="498537"
+        type="audio/mpeg"
+        url="https://www.oldradioworld.com/media/Liebowitz15.mp3"
+      />
+      <guid>aae20190418</guid>
+      <pubDate>Tue, 8 Jan 2019 01:15:00 GMT</pubDate>
+      <itunes:duration>1079</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
